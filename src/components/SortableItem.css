@@ -10,7 +10,7 @@
   transition: all var(--transition-normal);
   border: 2px solid transparent;
   user-select: none;
-  touch-action: manipulation;
+  touch-action: none;
 }
 
 .sortable-item:hover {
