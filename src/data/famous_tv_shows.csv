@@ -1,0 +1,183 @@
+﻿#,Title,Premiered,Ended,Genre,Network/Platform
+1,I Love Lucy,1951,1957,Comedy,CBS
+2,The Twilight Zone,1959,1964,Sci-Fi,CBS
+3,The Andy Griffith Show,1960,1968,Comedy,CBS
+4,Doctor Who,1963,Present,Sci-Fi,BBC
+5,Gilligan's Island,1964,1967,Comedy,CBS
+6,Star Trek: The Original Series,1966,1969,Sci-Fi,NBC
+7,Monty Python's Flying Circus,1969,1974,Comedy,BBC
+8,The Brady Bunch,1969,1974,Comedy,ABC
+9,All in the Family,1971,1979,Comedy,CBS
+10,M*A*S*H,1972,1983,Comedy/Drama,CBS
+11,Happy Days,1974,1984,Comedy,ABC
+12,Saturday Night Live,1975,Present,Comedy,NBC
+13,Charlie's Angels,1976,1981,Action,ABC
+14,Dallas,1978,1991,Drama,CBS
+15,Taxi,1978,1983,Comedy,ABC/NBC
+16,Knots Landing,1979,1993,Drama,CBS
+17,Cheers,1982,1993,Comedy,NBC
+18,Knight Rider,1982,1986,Action,NBC
+19,The A-Team,1983,1987,Action,NBC
+20,Jeopardy!,1984,Present,Game Show,Syndicated
+21,Miami Vice,1984,1990,Crime,NBC
+22,The Cosby Show,1984,1992,Comedy,NBC
+23,MacGyver,1985,1992,Action,ABC
+24,The Golden Girls,1985,1992,Comedy,NBC
+25,The Oprah Winfrey Show,1986,2011,Talk Show,Syndicated
+26,Full House,1987,1995,Comedy,ABC
+27,Married... with Children,1987,1997,Comedy,Fox
+28,Star Trek: The Next Generation,1987,1994,Sci-Fi,Syndicated
+29,America's Funniest Home Videos,1989,Present,Comedy,ABC
+30,Baywatch,1989,2001,Action,NBC/Syndicated
+31,Seinfeld,1989,1998,Comedy,NBC
+32,The Simpsons,1989,Present,Animation,Fox
+33,"Beverly Hills, 90210",1990,2000,Drama,Fox
+34,Law & Order,1990,Present,Crime,NBC
+35,The Fresh Prince of Bel-Air,1990,1996,Comedy,NBC
+36,Twin Peaks,1990,1991,Mystery,ABC
+37,Home Improvement,1991,1999,Comedy,ABC
+38,Batman: The Animated Series,1992,1995,Animation,Fox
+39,The Real World,1992,2017,Reality,MTV
+40,Frasier,1993,2004,Comedy,NBC
+41,NYPD Blue,1993,2005,Crime,ABC
+42,The X-Files,1993,2002,Sci-Fi,Fox
+43,ER,1994,2009,Drama,NBC
+44,Friends,1994,2004,Comedy,NBC
+45,Buffy the Vampire Slayer,1997,2003,Fantasy,The WB/UPN
+46,King of the Hill,1997,2010,Animation,Fox
+47,Oz,1997,2003,Drama,HBO
+48,South Park,1997,Present,Animation,Comedy Central
+49,Sex and the City,1998,2004,Comedy,HBO
+50,That '70s Show,1998,2006,Comedy,Fox
+51,Family Guy,1999,Present,Animation,Fox
+52,SpongeBob SquarePants,1999,Present,Animation,Nickelodeon
+53,The Sopranos,1999,2007,Crime,HBO
+54,The West Wing,1999,2006,Drama,NBC
+55,Who Wants to Be a Millionaire,1999,Present,Game Show,ABC/Syndicated
+56,CSI: Crime Scene Investigation,2000,2015,Crime,CBS
+57,Curb Your Enthusiasm,2000,2024,Comedy,HBO
+58,Malcolm in the Middle,2000,2006,Comedy,Fox
+59,Survivor,2000,Present,Reality,CBS
+60,24,2001,2014,Action,Fox
+61,Scrubs,2001,2010,Comedy,NBC/ABC
+62,Six Feet Under,2001,2005,Drama,HBO
+63,The Amazing Race,2001,Present,Reality,CBS
+64,American Idol,2002,Present,Reality,Fox/ABC
+65,The Bachelor,2002,Present,Reality,ABC
+66,The Wire,2002,2008,Crime,HBO
+67,Arrested Development,2003,2019,Comedy,Fox/Netflix
+68,Two and a Half Men,2003,2015,Comedy,CBS
+69,Battlestar Galactica,2004,2009,Sci-Fi,Syfy
+70,Desperate Housewives,2004,2012,Drama,ABC
+71,House,2004,2012,Drama,Fox
+72,Lost,2004,2010,Drama,ABC
+73,Veronica Mars,2004,2019,Mystery,UPN/Hulu
+74,Avatar: The Last Airbender,2005,2008,Animation,Nickelodeon
+75,Grey's Anatomy,2005,Present,Drama,ABC
+76,How I Met Your Mother,2005,2014,Comedy,CBS
+77,It's Always Sunny in Philadelphia,2005,Present,Comedy,FX/FXX
+78,Prison Break,2005,2017,Action,Fox
+79,The Office (US),2005,2013,Comedy,NBC
+80,30 Rock,2006,2013,Comedy,NBC
+81,Big Love,2006,2011,Drama,HBO
+82,Dexter,2006,2013,Crime,Showtime
+83,Friday Night Lights,2006,2011,Drama,NBC
+84,Big Bang Theory,2007,2019,Comedy,CBS
+85,Gossip Girl,2007,2012,Drama,The CW
+86,Mad Men,2007,2015,Drama,AMC
+87,Breaking Bad,2008,2013,Crime,AMC
+88,Sons of Anarchy,2008,2014,Crime,FX
+89,True Blood,2008,2014,Fantasy,HBO
+90,Archer,2009,2023,Animation,FX/FXX
+91,Glee,2009,2015,Musical,Fox
+92,Modern Family,2009,2020,Comedy,ABC
+93,Parks and Recreation,2009,2015,Comedy,NBC
+94,RuPaul's Drag Race,2009,Present,Reality,Logo/VH1
+95,Boardwalk Empire,2010,2014,Crime,HBO
+96,Downton Abbey,2010,2015,Drama,ITV
+97,Justified,2010,2015,Crime,FX
+98,Sherlock,2010,2017,Mystery,BBC
+99,The Walking Dead,2010,2022,Horror,AMC
+100,Black Mirror,2011,Present,Sci-Fi,Channel 4/Netflix
+101,Bob's Burgers,2011,Present,Animation,Fox
+102,Game of Thrones,2011,2019,Fantasy,HBO
+103,Homeland,2011,2020,Thriller,Showtime
+104,New Girl,2011,2018,Comedy,Fox
+105,Suits,2011,2019,Drama,USA Network
+106,Veep,2012,2019,Comedy,HBO
+107,Brooklyn Nine-Nine,2013,2021,Comedy,Fox/NBC
+108,House of Cards,2013,2018,Drama,Netflix
+109,Orange Is the New Black,2013,2019,Drama,Netflix
+110,Peaky Blinders,2013,2022,Crime,BBC
+111,Rick and Morty,2013,Present,Animation,Adult Swim
+112,Fargo (TV),2014,Present,Crime,FX
+113,The Flash,2014,2023,Action,The CW
+114,True Detective,2014,Present,Crime,HBO
+115,Better Call Saul,2015,2022,Crime,AMC
+116,Mr. Robot,2015,2019,Thriller,USA Network
+117,Narcos,2015,2017,Crime,Netflix
+118,The Expanse,2015,2022,Sci-Fi,Syfy/Amazon
+119,Atlanta,2016,2022,Comedy,FX
+120,Fleabag,2016,2019,Comedy,BBC/Amazon
+121,Stranger Things,2016,2025,Sci-Fi,Netflix
+122,The Crown,2016,2023,Drama,Netflix
+123,The Good Place,2016,2020,Comedy,NBC
+124,This Is Us,2016,2022,Drama,NBC
+125,Westworld,2016,2022,Sci-Fi,HBO
+126,13 Reasons Why,2017,2020,Drama,Netflix
+127,Big Little Lies,2017,2019,Drama,HBO
+128,Mindhunter,2017,2019,Crime,Netflix
+129,Ozark,2017,2022,Crime,Netflix
+130,The Handmaid's Tale,2017,Present,Drama,Hulu
+131,The Marvelous Mrs. Maisel,2017,2023,Comedy,Amazon
+132,Cobra Kai,2018,2025,Action,YouTube/Netflix
+133,Killing Eve,2018,2022,Thriller,BBC America
+134,Succession,2018,2023,Drama,HBO
+135,The Haunting of Hill House,2018,2018,Horror,Netflix
+136,Yellowstone,2018,Present,Drama,Paramount
+137,Chernobyl,2019,2019,Drama,HBO
+138,Euphoria,2019,Present,Drama,HBO
+139,The Boys,2019,Present,Action,Amazon
+140,The Mandalorian,2019,2023,Sci-Fi,Disney+
+141,The Morning Show,2019,Present,Drama,Apple TV+
+142,The Witcher,2019,Present,Fantasy,Netflix
+143,Watchmen,2019,2019,Sci-Fi,HBO
+144,What We Do in the Shadows,2019,2024,Comedy,FX
+145,Bridgerton,2020,Present,Romance,Netflix
+146,Emily in Paris,2020,Present,Comedy,Netflix
+147,Industry,2020,Present,Drama,HBO
+148,Outer Banks,2020,Present,Adventure,Netflix
+149,Ted Lasso,2020,2023,Comedy,Apple TV+
+150,The Queen's Gambit,2020,2020,Drama,Netflix
+151,Abbott Elementary,2021,Present,Comedy,ABC
+152,Arcane,2021,2024,Animation,Netflix
+153,Ghosts (US),2021,Present,Comedy,CBS
+154,Hacks,2021,Present,Comedy,HBO Max
+155,Invincible,2021,Present,Animation,Amazon
+156,Loki,2021,2023,Sci-Fi,Disney+
+157,Mare of Easttown,2021,2021,Crime,HBO
+158,Only Murders in the Building,2021,Present,Comedy,Hulu
+159,Reservation Dogs,2021,2023,Comedy,FX/Hulu
+160,Squid Game,2021,Present,Thriller,Netflix
+161,The White Lotus,2021,Present,Drama,HBO
+162,Yellowjackets,2021,Present,Thriller,Showtime
+163,Andor,2022,Present,Sci-Fi,Disney+
+164,Bad Sisters,2022,Present,Thriller,Apple TV+
+165,House of the Dragon,2022,Present,Fantasy,HBO
+166,Reacher,2022,Present,Action,Amazon
+167,Severance,2022,Present,Sci-Fi,Apple TV+
+168,Slow Horses,2022,Present,Thriller,Apple TV+
+169,The Bear,2022,Present,Drama,FX/Hulu
+170,Wednesday,2022,Present,Comedy,Netflix
+171,Beef,2023,2023,Drama,Netflix
+172,Lessons in Chemistry,2023,2023,Drama,Apple TV+
+173,One Piece (Live Action),2023,Present,Adventure,Netflix
+174,The Diplomat,2023,Present,Thriller,Netflix
+175,The Last of Us,2023,Present,Drama,HBO
+176,3 Body Problem,2024,Present,Sci-Fi,Netflix
+177,Baby Reindeer,2024,2024,Drama,Netflix
+178,Disclaimer,2024,2024,Thriller,Apple TV+
+179,Fallout,2024,Present,Sci-Fi,Amazon
+180,Ripley,2024,2024,Thriller,Netflix
+181,Shogun,2024,Present,Drama,FX/Hulu
+182,The Penguin,2024,2024,Crime,HBO

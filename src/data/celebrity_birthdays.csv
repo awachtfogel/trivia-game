@@ -1,0 +1,408 @@
+﻿#,Name,Birthdate,Category
+1,Clint Eastwood,"May 31, 1930",Actor
+2,Warren Buffett,"August 30, 1930",Business
+3,Judi Dench,"December 9, 1934",Actress
+4,Jack Nicholson,"April 22, 1937",Actor
+5,Morgan Freeman,"June 1, 1937",Actor
+6,Dustin Hoffman,"August 8, 1937",Actor
+8,Anthony Hopkins,"December 31, 1937",Actor
+9,Ian McKellen,"May 25, 1939",Actor
+10,John Cleese,"October 27, 1939",Actor
+11,Al Pacino,"April 25, 1940",Actor
+12,Ringo Starr,"July 7, 1940",Musician
+13,Patrick Stewart,"July 13, 1940",Actor
+14,Bob Dylan,"May 24, 1941",Musician
+15,Martha Stewart,"August 3, 1941",TV Host
+16,Bernie Sanders,"September 8, 1941",Politician
+17,Barbra Streisand,"April 24, 1942",Musician
+18,Paul McCartney,"June 18, 1942",Musician
+19,Harrison Ford,"July 13, 1942",Actor
+20,Martin Scorsese,"November 17, 1942",Director
+21,Joe Biden,"November 20, 1942",Politician
+22,Mick Jagger,"July 26, 1943",Musician
+23,Robert De Niro,"August 17, 1943",Actor
+25,Joni Mitchell,"November 7, 1943",Musician
+26,Keith Richards,"December 18, 1943",Musician
+27,Jimmy Page,"January 9, 1944",Musician
+28,Diana Ross,"March 26, 1944",Musician
+29,Sam Elliott,"August 9, 1944",Actor
+30,Danny DeVito,"November 17, 1944",Actor
+31,Tom Selleck,"January 29, 1945",Actor
+32,Eric Clapton,"March 30, 1945",Musician
+33,Pete Townshend,"May 19, 1945",Musician
+34,Helen Mirren,"July 26, 1945",Actress
+35,Steve Martin,"August 14, 1945",Actor/Comedian
+36,Neil Young,"November 12, 1945",Musician
+37,Dolly Parton,"January 19, 1946",Musician
+38,David Gilmour,"March 6, 1946",Musician
+39,Cher,"May 20, 1946",Musician
+40,Donald Trump,"June 14, 1946",Politician
+41,Sylvester Stallone,"July 6, 1946",Actor
+42,Tommy Lee Jones,"September 15, 1946",Actor
+43,Steven Spielberg,"December 18, 1946",Director
+44,Elton John,"March 25, 1947",Musician
+45,David Letterman,"April 12, 1947",TV Host
+46,Kareem Abdul-Jabbar,"April 16, 1947",Athlete
+47,Carlos Santana,"July 20, 1947",Musician
+48,Arnold Schwarzenegger,"July 30, 1947",Actor
+49,Hillary Clinton,"October 26, 1947",Politician
+50,Steven Tyler,"March 26, 1948",Musician
+51,Stevie Nicks,"May 26, 1948",Musician
+52,Robert Plant,"August 20, 1948",Musician
+53,King Charles III,"November 14, 1948",Royalty
+54,Ozzy Osbourne,"December 3, 1948",Musician
+55,Samuel L. Jackson,"December 21, 1948",Actor
+57,Billy Joel,"May 9, 1949",Musician
+58,Meryl Streep,"June 22, 1949",Actress
+59,Bruce Springsteen,"September 23, 1949",Musician
+60,Sigourney Weaver,"October 8, 1949",Actress
+61,Benjamin Netanyahu,"October 21, 1949",Politician
+62,Jeff Bridges,"December 4, 1949",Actor
+63,Peter Gabriel,"February 13, 1950",Musician
+64,Jay Leno,"April 28, 1950",TV Host
+65,Stevie Wonder,"May 13, 1950",Musician
+66,Richard Branson,"July 18, 1950",Business
+67,Dr. Phil,"September 1, 1950",TV Host
+68,Narendra Modi,"September 17, 1950",Politician
+69,Bill Murray,"September 21, 1950",Actor/Comedian
+70,Phil Collins,"January 30, 1951",Musician
+71,Bob Iger,"February 10, 1951",Business
+72,Kurt Russell,"March 17, 1951",Actor
+73,Jill Biden,"June 3, 1951",Public Figure
+74,Sting,"October 2, 1951",Musician
+75,Liam Neeson,"June 7, 1952",Actor
+76,Vladimir Putin,"October 7, 1952",Politician
+77,Jeff Goldblum,"October 22, 1952",Actor
+78,Xi Jinping,"June 15, 1953",Politician
+79,Oprah Winfrey,"January 29, 1954",TV Host
+80,Jerry Seinfeld,"April 29, 1954",Comedian
+81,Angela Merkel,"July 17, 1954",Politician
+82,James Cameron,"August 16, 1954",Director
+84,Denzel Washington,"December 28, 1954",Actor
+85,Kevin Costner,"January 18, 1955",Actor
+86,Steve Jobs,"February 24, 1955",Business
+87,Bruce Willis,"March 19, 1955",Actor
+88,Bill Gates,"October 28, 1955",Business
+90,Kris Jenner,"November 5, 1955",Reality TV
+91,Whoopi Goldberg,"November 13, 1955",Actress
+92,Bill Nye,"November 27, 1955",Science Communicator
+93,Mel Gibson,"January 3, 1956",Actor
+94,Bryan Cranston,"March 7, 1956",Actor
+96,Tom Hanks,"July 9, 1956",Actor
+97,Larry Bird,"December 7, 1956",Athlete
+98,Spike Lee,"March 20, 1957",Director
+99,Daniel Day-Lewis,"April 29, 1957",Actor
+100,Dolph Lundgren,"November 3, 1957",Actor
+101,Ellen DeGeneres,"January 26, 1958",TV Host
+102,Gary Oldman,"March 21, 1958",Actor
+103,Michelle Pfeiffer,"April 29, 1958",Actress
+104,Mark Cuban,"July 31, 1958",Business
+105,Madonna,"August 16, 1958",Musician
+106,Neil deGrasse Tyson,"October 5, 1958",Scientist
+107,Tim Robbins,"October 16, 1958",Actor
+108,Jamie Lee Curtis,"November 22, 1958",Actress
+109,Sade,"January 16, 1959",Musician
+110,Magic Johnson,"August 14, 1959",Athlete
+111,Bono,"May 10, 1960",Musician
+112,Sean Penn,"August 17, 1960",Actor
+113,Reed Hastings,"October 8, 1960",Business
+114,Tim Cook,"November 1, 1960",Business
+116,Wayne Gretzky,"January 26, 1961",Athlete
+117,Eddie Murphy,"April 3, 1961",Actor
+118,George Clooney,"May 6, 1961",Actor
+119,Barack Obama,"August 4, 1961",Politician
+120,The Edge,"August 8, 1961",Musician
+121,Jennifer Coolidge,"August 28, 1961",Actress
+122,Chad Smith,"October 25, 1961",Musician
+123,Mary Barra,"December 24, 1961",Business
+124,Jim Carrey,"January 17, 1962",Actor
+125,Axl Rose,"February 6, 1962",Musician
+126,Garth Brooks,"February 7, 1962",Musician
+127,Jon Bon Jovi,"March 2, 1962",Musician
+128,Tom Cruise,"July 3, 1962",Actor
+129,Michelle Yeoh,"August 6, 1962",Actress
+130,Steve Carell,"August 16, 1962",Actor/Comedian
+131,Flea,"October 16, 1962",Musician
+132,Bob Odenkirk,"October 22, 1962",Actor
+134,Jon Stewart,"November 28, 1962",TV Host
+136,Michael Jordan,"February 17, 1963",Athlete
+137,Jensen Huang,"February 17, 1963",Business
+138,Seal,"February 19, 1963",Musician
+139,Quentin Tarantino,"March 27, 1963",Director
+140,Conan O'Brien,"April 18, 1963",TV Host
+141,Johnny Depp,"June 9, 1963",Actor
+142,Brad Pitt,"December 18, 1963",Actor
+143,Nicolas Cage,"January 7, 1964",Actor
+144,Jeff Bezos,"January 12, 1964",Business
+145,Michelle Obama,"January 17, 1964",Public Figure
+146,Russell Crowe,"April 7, 1964",Actor
+147,Stephen Colbert,"May 13, 1964",TV Host
+148,Lenny Kravitz,"May 26, 1964",Musician
+149,Boris Johnson,"June 19, 1964",Politician
+150,Sandra Bullock,"July 26, 1964",Actress
+151,Hoda Kotb,"August 9, 1964",TV Host
+152,Keanu Reeves,"September 2, 1964",Actor
+153,Jack Ma,"September 10, 1964",Business
+154,Guillermo del Toro,"October 9, 1964",Director
+155,Kamala Harris,"October 20, 1964",Politician
+158,Chris Rock,"February 7, 1965",Comedian
+159,Dr. Dre,"February 18, 1965",Musician
+160,Sarah Jessica Parker,"March 25, 1965",Actress
+161,Robert Downey Jr.,"April 4, 1965",Actor
+163,Björk,"November 21, 1965",Musician
+164,Ben Stiller,"November 30, 1965",Actor
+165,Gong Li,"December 31, 1965",Actress
+166,Cindy Crawford,"February 20, 1966",Model
+167,Janet Jackson,"May 16, 1966",Musician
+168,Mike Tyson,"June 30, 1966",Athlete
+169,Halle Berry,"August 14, 1966",Actress
+170,Salma Hayek,"September 2, 1966",Actress
+171,Adam Sandler,"September 9, 1966",Actor
+172,Gordon Ramsay,"November 8, 1966",TV Chef
+173,Tim McGraw,"May 1, 1967",Musician
+174,Anderson Cooper,"June 3, 1967",TV Host
+175,Nicole Kidman,"June 20, 1967",Actress
+176,Will Ferrell,"July 16, 1967",Actor/Comedian
+177,Vin Diesel,"July 18, 1967",Actor
+179,Satya Nadella,"August 19, 1967",Business
+181,Peter Thiel,"October 11, 1967",Business
+182,Keith Urban,"October 26, 1967",Musician
+183,Julia Roberts,"October 28, 1967",Actress
+184,Jimmy Kimmel,"November 13, 1967",TV Host
+185,LL Cool J,"January 14, 1968",Musician/Actor
+186,Guy Fieri,"January 22, 1968",TV Chef
+187,Rakim,"January 28, 1968",Musician
+188,Josh Brolin,"February 12, 1968",Actor
+189,Daniel Craig,"March 2, 1968",Actor
+190,Céline Dion,"March 30, 1968",Musician
+191,Rachael Ray,"August 25, 1968",TV Host
+192,Will Smith,"September 25, 1968",Actor
+193,Thom Yorke,"October 7, 1968",Musician
+194,Hugh Jackman,"October 12, 1968",Actor
+195,Lucy Liu,"December 2, 1968",Actress
+196,Dave Grohl,"January 14, 1969",Musician
+197,Dave Bautista,"January 18, 1969",Actor
+198,Jennifer Aniston,"February 11, 1969",Actress
+200,Mariah Carey,"March 27, 1969",Musician
+201,Wes Anderson,"May 1, 1969",Director
+202,Cate Blanchett,"May 14, 1969",Actress
+203,Peter Dinklage,"June 11, 1969",Actor
+204,Ice Cube,"June 15, 1969",Musician/Actor
+205,Jennifer Lopez,"July 24, 1969",Musician
+206,Edward Norton,"August 18, 1969",Actor
+207,Jack Black,"August 28, 1969",Actor/Comedian
+208,Sheryl Sandberg,"August 28, 1969",Business
+209,Tyler Perry,"September 13, 1969",Actor
+210,Gwen Stefani,"October 3, 1969",Musician
+212,Jay-Z,"December 4, 1969",Musician
+213,Vince Vaughn,"March 28, 1970",Actor
+214,Uma Thurman,"April 29, 1970",Actress
+215,Tina Fey,"May 18, 1970",Actress/Comedian
+216,Naomi Campbell,"May 22, 1970",Model
+218,Christopher Nolan,"July 30, 1970",Director
+219,Claudia Schiffer,"August 25, 1970",Model
+220,Melissa McCarthy,"August 26, 1970",Actress/Comedian
+221,Matt Damon,"October 8, 1970",Actor
+225,Mark Wahlberg,"June 5, 1971",Actor
+226,Elon Musk,"June 28, 1971",Business
+228,Sandra Oh,"July 20, 1971",Actress
+229,Amy Poehler,"September 16, 1971",Actress/Comedian
+230,Snoop Dogg,"October 20, 1971",Musician
+231,Justin Trudeau,"December 25, 1971",Politician
+233,Shaquille O'Neal,"March 6, 1972",Athlete
+234,Dwayne Johnson,"May 2, 1972",Actor
+236,Sundar Pichai,"June 10, 1972",Business
+237,Ben Affleck,"August 15, 1972",Actor
+238,Cameron Diaz,"August 30, 1972",Actress
+239,Idris Elba,"September 6, 1972",Actor
+240,Gwyneth Paltrow,"September 27, 1972",Actress
+241,Eminem,"October 17, 1972",Musician
+242,Larry Page,"March 26, 1973",Business
+243,Pharrell Williams,"April 5, 1973",Musician
+244,Heidi Klum,"June 1, 1973",Model
+245,Sergey Brin,"August 21, 1973",Business
+248,Tyra Banks,"December 4, 1973",Model
+249,Seth Meyers,"December 28, 1973",TV Host
+250,Kate Moss,"January 16, 1974",Model
+251,Christian Bale,"January 30, 1974",Actor
+253,Penélope Cruz,"April 28, 1974",Actress
+254,Derek Jeter,"June 26, 1974",Athlete
+255,Hilary Swank,"July 30, 1974",Actress
+256,Amy Adams,"August 20, 1974",Actress
+257,Jimmy Fallon,"September 19, 1974",TV Host
+258,Joaquin Phoenix,"October 28, 1974",Actor
+259,Leonardo DiCaprio,"November 11, 1974",Actor
+260,Ryan Seacrest,"December 24, 1974",TV Host
+261,Drew Barrymore,"February 22, 1975",Actress/TV Host
+262,Will.i.am,"March 15, 1975",Musician
+263,Fergie,"March 27, 1975",Musician
+265,David Beckham,"May 2, 1975",Athlete
+266,Lauryn Hill,"May 26, 1975",Musician
+268,Angelina Jolie,"June 4, 1975",Actress
+270,50 Cent,"July 6, 1975",Musician
+271,Charlize Theron,"August 7, 1975",Actress
+272,Kate Winslet,"October 5, 1975",Actress
+273,DJ Khaled,"November 26, 1975",Musician
+274,Sia,"December 18, 1975",Musician
+275,Tiger Woods,"December 30, 1975",Athlete
+277,Reese Witherspoon,"March 22, 1976",Actress
+281,Benedict Cumberbatch,"July 19, 1976",Actor
+283,Ryan Reynolds,"October 23, 1976",Actor
+284,Jack Dorsey,"November 19, 1976",Business
+287,Shakira,"February 2, 1977",Musician
+288,Floyd Mayweather,"February 24, 1977",Athlete
+289,Chris Martin,"March 2, 1977",Musician
+291,John Cena,"April 23, 1977",Actor
+292,John Oliver,"April 23, 1977",TV Host/Comedian
+293,Kanye West,"June 8, 1977",Musician
+294,Tom Brady,"August 3, 1977",Athlete
+295,Tom Hardy,"September 15, 1977",Actor
+296,John Mayer,"October 16, 1977",Musician
+297,Emmanuel Macron,"December 21, 1977",Politician
+298,Volodymyr Zelenskyy,"January 25, 1978",Politician
+299,James Corden,"August 22, 1978",TV Host
+300,Usher,"October 14, 1978",Musician
+301,Rachel McAdams,"November 17, 1978",Actress
+302,Manny Pacquiao,"December 17, 1978",Athlete
+303,John Legend,"December 28, 1978",Musician
+304,Jordan Peele,"February 21, 1979",Director
+306,Adam Levine,"March 18, 1979",Musician
+307,Norah Jones,"March 30, 1979",Musician
+308,Kourtney Kardashian,"April 18, 1979",Reality TV
+309,Kate Hudson,"April 19, 1979",Actress
+310,Chris Pratt,"June 21, 1979",Actor
+311,Mindy Kaling,"June 24, 1979",Actress
+312,Kevin Hart,"July 6, 1979",Actor/Comedian
+313,Jason Momoa,"August 1, 1979",Actor
+314,Aaron Paul,"August 27, 1979",Actor
+315,Pink,"September 8, 1979",Musician
+317,Rebel Wilson,"March 2, 1980",Actress/Comedian
+318,Channing Tatum,"April 26, 1980",Actor
+319,Venus Williams,"June 17, 1980",Athlete
+320,Kristen Bell,"July 18, 1980",Actress
+321,Gisele Bündchen,"July 20, 1980",Model
+322,Jacinda Ardern,"July 26, 1980",Politician
+323,Yao Ming,"September 12, 1980",Athlete
+324,Kim Kardashian,"October 21, 1980",Reality TV
+325,Ryan Gosling,"November 12, 1980",Actor
+326,Christina Aguilera,"December 18, 1980",Musician
+327,Jake Gyllenhaal,"December 19, 1980",Actor
+329,Alicia Keys,"January 25, 1981",Musician
+330,Justin Timberlake,"January 31, 1981",Musician
+332,Paris Hilton,"February 17, 1981",Reality TV
+333,Jessica Alba,"April 28, 1981",Actress
+334,Rami Malek,"May 12, 1981",Actor
+335,Amy Schumer,"June 1, 1981",Comedian
+336,Natalie Portman,"June 9, 1981",Actress
+337,Adriana Lima,"June 12, 1981",Model
+338,Chris Evans,"June 13, 1981",Actor
+339,Meghan Markle,"August 4, 1981",Royalty
+340,Roger Federer,"August 8, 1981",Athlete
+341,Beyoncé,"September 4, 1981",Musician
+342,Nicole Richie,"September 21, 1981",Reality TV
+343,Serena Williams,"September 26, 1981",Athlete
+345,Britney Spears,"December 2, 1981",Musician
+347,Kate Middleton,"January 9, 1982",Royalty
+348,Dwyane Wade,"January 17, 1982",Athlete
+349,Seth Rogen,"April 15, 1982",Actor/Comedian
+350,Kelly Clarkson,"April 24, 1982",Musician
+351,Prince William,"June 21, 1982",Royalty
+353,Lil Wayne,"September 27, 1982",Musician
+354,Anne Hathaway,"November 12, 1982",Actress
+355,Nicki Minaj,"December 8, 1982",Musician
+358,Carrie Underwood,"March 10, 1983",Musician
+359,Henry Cavill,"May 5, 1983",Actor
+361,Chris Hemsworth,"August 11, 1983",Actor
+362,Mila Kunis,"August 14, 1983",Actress
+365,Adam Driver,"November 19, 1983",Actor
+367,Jonah Hill,"December 20, 1983",Actor
+368,Trevor Noah,"February 20, 1984",TV Host/Comedian
+369,Mark Zuckerberg,"May 14, 1984",Business
+370,Aubrey Plaza,"June 26, 1984",Actress
+371,Khloé Kardashian,"June 27, 1984",Reality TV
+372,Prince Harry,"September 15, 1984",Royalty
+373,Avril Lavigne,"September 27, 1984",Musician
+374,Katy Perry,"October 25, 1984",Musician
+375,Scarlett Johansson,"November 22, 1984",Actress
+376,LeBron James,"December 30, 1984",Athlete
+377,Lewis Hamilton,"January 7, 1985",Athlete
+378,J. Cole,"January 28, 1985",Musician
+379,Cristiano Ronaldo,"February 5, 1985",Athlete
+380,Sam Altman,"April 22, 1985",Business
+381,Gal Gadot,"April 30, 1985",Actress
+382,Lana Del Rey,"June 21, 1985",Musician
+383,Michael Phelps,"June 30, 1985",Athlete
+385,Bruno Mars,"October 8, 1985",Musician
+386,Chrissy Teigen,"November 30, 1985",Model
+389,Lady Gaga,"March 28, 1986",Musician
+390,Robert Pattinson,"May 13, 1986",Actor
+391,Rafael Nadal,"June 3, 1986",Athlete
+392,Solange,"June 24, 1986",Musician
+393,Usain Bolt,"August 21, 1986",Athlete
+394,Florence Welch,"August 28, 1986",Musician
+395,Emilia Clarke,"October 23, 1986",Actress
+396,Drake,"October 24, 1986",Musician
+398,Ronda Rousey,"February 1, 1987",Athlete
+399,Michael B. Jordan,"February 9, 1987",Actor
+401,Kesha,"March 1, 1987",Musician
+402,Maria Sharapova,"April 19, 1987",Athlete
+403,Novak Djokovic,"May 22, 1987",Athlete
+404,Kendrick Lamar,"June 17, 1987",Musician
+405,Lionel Messi,"June 24, 1987",Athlete
+406,Blake Lively,"August 25, 1987",Actress
+407,Wiz Khalifa,"September 8, 1987",Musician
+408,Zac Efron,"October 18, 1987",Actor
+409,Rihanna,"February 20, 1988",Musician
+410,Stephen Curry,"March 14, 1988",Athlete
+411,Grimes,"March 17, 1988",Musician
+413,Ana de Armas,"April 30, 1988",Actress
+414,Adele,"May 5, 1988",Musician
+422,Zoë Kravitz,"December 1, 1988",Actress
+423,Hayley Williams,"December 27, 1988",Musician
+424,Elizabeth Olsen,"February 16, 1989",Actress
+426,Dakota Johnson,"October 4, 1989",Actress
+429,Taylor Swift,"December 13, 1989",Musician
+432,Emma Watson,"April 15, 1990",Actress
+434,Margot Robbie,"July 2, 1990",Actress
+435,Jennifer Lawrence,"August 15, 1990",Actress
+436,Jeremy Allen White,"February 17, 1991",Actor
+437,Ed Sheeran,"February 17, 1991",Musician
+438,"Tyler, the Creator","March 6, 1991",Musician
+439,Travis Scott,"April 30, 1991",Musician
+440,Emily Ratajkowski,"June 7, 1991",Model
+441,Austin Butler,"August 17, 1991",Actor
+442,Neymar,"February 5, 1992",Athlete
+443,Taylor Lautner,"February 11, 1992",Actor
+445,Selena Gomez,"July 22, 1992",Musician
+447,Karlie Kloss,"August 3, 1992",Model
+448,Cara Delevingne,"August 12, 1992",Model
+449,Demi Lovato,"August 20, 1992",Musician
+450,Rosalía,"September 25, 1992",Musician
+451,Cardi B,"October 11, 1992",Musician
+454,Miley Cyrus,"November 23, 1992",Musician
+455,Chance the Rapper,"April 16, 1993",Musician
+456,Ariana Grande,"June 26, 1993",Musician
+457,Harry Styles,"February 1, 1994",Musician
+458,Justin Bieber,"March 1, 1994",Musician
+459,Bad Bunny,"March 10, 1994",Musician
+460,Saoirse Ronan,"April 12, 1994",Actress
+461,Shohei Ohtani,"July 5, 1994",Athlete
+467,Dua Lipa,"August 22, 1995",Musician
+468,Patrick Mahomes,"September 17, 1995",Athlete
+470,Kendall Jenner,"November 3, 1995",Model
+471,Timothée Chalamet,"December 27, 1995",Actor
+482,Simone Biles,"March 14, 1997",Athlete
+483,Maisie Williams,"April 15, 1997",Actress
+485,Kylie Jenner,"August 10, 1997",Reality TV
+486,Sydney Sweeney,"September 12, 1997",Actress
+487,Naomi Osaka,"October 16, 1997",Athlete
+488,Chappell Roan,"February 19, 1998",Musician
+489,Jack Harlow,"March 13, 1998",Musician
+490,Shawn Mendes,"August 8, 1998",Musician
+491,Kylian Mbappé,"December 20, 1998",Athlete
+492,Lil Nas X,"April 9, 1999",Musician
+493,Sabrina Carpenter,"May 11, 1999",Musician
+495,Billie Eilish,"December 18, 2001",Musician
+496,Caitlin Clark,"January 22, 2002",Athlete
+498,Olivia Rodrigo,"February 20, 2003",Musician
+499,Millie Bobby Brown,"February 19, 2004",Actress

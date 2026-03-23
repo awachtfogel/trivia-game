@@ -1,0 +1,114 @@
+.sortable-item {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+  background: var(--color-card);
+  padding: var(--spacing-lg);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-md);
+  cursor: grab;
+  transition: all var(--transition-normal);
+  border: 2px solid transparent;
+  user-select: none;
+  touch-action: manipulation;
+}
+
+.sortable-item:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--color-primary);
+}
+
+.sortable-item.dragging {
+  opacity: 0.5;
+  cursor: grabbing;
+  transform: scale(1.05) rotate(2deg);
+  box-shadow: var(--shadow-xl);
+}
+
+.item-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  background: var(--color-primary);
+  color: white;
+  border-radius: 50%;
+  font-weight: bold;
+  font-size: var(--text-sm);
+  flex-shrink: 0;
+}
+
+.item-text {
+  flex: 1;
+  font-size: var(--text-lg);
+  color: var(--color-text);
+}
+
+.item-feedback {
+  flex-shrink: 0;
+}
+
+.feedback-icon {
+  font-weight: bold;
+  font-size: var(--text-lg);
+}
+
+.correct-icon {
+  color: var(--color-success);
+}
+
+.incorrect-icon {
+  color: var(--color-error);
+  font-size: var(--text-sm);
+}
+
+.sortable-item.correct {
+  border-color: var(--color-success);
+  background: rgba(16, 185, 129, 0.05);
+  animation: successPulse 0.5s ease;
+}
+
+.sortable-item.incorrect {
+  border-color: var(--color-error);
+  background: rgba(239, 68, 68, 0.05);
+  animation: shake 0.5s ease;
+}
+
+@keyframes successPulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.02);
+  }
+}
+
+@keyframes shake {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-5px);
+  }
+  75% {
+    transform: translateX(5px);
+  }
+}
+
+@media (max-width: 768px) {
+  .sortable-item {
+    padding: var(--spacing-md);
+  }
+
+  .item-text {
+    font-size: var(--text-base);
+  }
+
+  .item-number {
+    width: 28px;
+    height: 28px;
+    font-size: var(--text-xs);
+  }
+}

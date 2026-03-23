@@ -1,0 +1,203 @@
+﻿#,Title,Artist,Year,Genre
+1,Over the Rainbow,Judy Garland,1939,Pop
+2,White Christmas,Bing Crosby,1942,Holiday
+3,That's Amore,Dean Martin,1953,Pop
+4,Rock Around the Clock,Bill Haley & His Comets,1954,Rock
+5,Hound Dog,Elvis Presley,1956,Rock
+6,Jailhouse Rock,Elvis Presley,1957,Rock
+7,Johnny B. Goode,Chuck Berry,1958,Rock
+8,La Bamba,Ritchie Valens,1958,Rock
+9,Put Your Head on My Shoulder,Paul Anka,1959,Pop
+10,Stand by Me,Ben E. King,1961,R&B
+11,I Want to Hold Your Hand,The Beatles,1963,Rock
+12,Twist and Shout,The Beatles,1963,Rock
+13,A Change Is Gonna Come,Sam Cooke,1964,Soul
+14,My Girl,The Temptations,1964,R&B
+15,(I Can't Get No) Satisfaction,The Rolling Stones,1965,Rock
+16,Like a Rolling Stone,Bob Dylan,1965,Rock
+17,Yesterday,The Beatles,1965,Rock
+18,A Day in the Life,The Beatles,1967,Rock
+19,Light My Fire,The Doors,1967,Rock
+20,Purple Haze,Jimi Hendrix,1967,Rock
+21,Respect,Aretha Franklin,1967,Soul
+22,What a Wonderful World,Louis Armstrong,1967,Jazz
+23,All Along the Watchtower,Jimi Hendrix,1968,Rock
+24,Hey Jude,The Beatles,1968,Rock
+25,Sympathy for the Devil,The Rolling Stones,1968,Rock
+26,Come Together,The Beatles,1969,Rock
+27,Fortunate Son,Creedence Clearwater Revival,1969,Rock
+28,Gimme Shelter,The Rolling Stones,1969,Rock
+29,Space Oddity,David Bowie,1969,Rock
+30,Bridge Over Troubled Water,Simon & Garfunkel,1970,Folk
+31,Let It Be,The Beatles,1970,Rock
+32,War,Edwin Starr,1970,Soul
+33,Imagine,John Lennon,1971,Rock
+34,Imagine (re-release),John Lennon,1971,Rock
+35,Stairway to Heaven,Led Zeppelin,1971,Rock
+36,"Take Me Home, Country Roads",John Denver,1971,Country
+37,What's Going On,Marvin Gaye,1971,Soul
+38,Lean on Me,Bill Withers,1972,Soul
+39,Superstition,Stevie Wonder,1972,Funk
+40,Bohemian Rhapsody,Queen,1975,Rock
+41,Dreams,Fleetwood Mac,1977,Rock
+42,Go Your Own Way,Fleetwood Mac,1977,Rock
+43,Hotel California,Eagles,1977,Rock
+44,Stayin' Alive,Bee Gees,1977,Disco
+45,We Will Rock You,Queen,1977,Rock
+46,I Will Survive,Gloria Gaynor,1978,Disco
+47,Don't Stop Me Now,Queen,1979,Rock
+48,London Calling,The Clash,1979,Punk
+49,Rapper's Delight,Sugarhill Gang,1979,Hip-Hop
+50,Another One Bites the Dust,Queen,1980,Rock
+51,Back in Black,AC/DC,1980,Rock
+52,Don't Stop Believin',Journey,1981,Rock
+53,Under Pressure,Queen & David Bowie,1981,Rock
+54,Africa,Toto,1982,Rock
+55,Beat It,Michael Jackson,1982,Pop
+56,Billie Jean,Michael Jackson,1982,Pop
+57,Eye of the Tiger,Survivor,1982,Rock
+58,Thriller,Michael Jackson,1982,Pop
+59,Every Breath You Take,The Police,1983,Rock
+60,Girls Just Want to Have Fun,Cyndi Lauper,1983,Pop
+61,Sweet Dreams (Are Made of This),Eurythmics,1983,Synth-Pop
+62,Born in the U.S.A.,Bruce Springsteen,1984,Rock
+63,Jump,Van Halen,1984,Rock
+64,Like a Virgin,Madonna,1984,Pop
+65,Purple Rain,Prince,1984,Rock
+66,When Doves Cry,Prince,1984,Pop/Funk
+67,Don't You (Forget About Me),Simple Minds,1985,New Wave
+68,Everybody Wants to Rule the World,Tears for Fears,1985,New Wave
+69,Money for Nothing,Dire Straits,1985,Rock
+70,Running Up That Hill,Kate Bush,1985,Synth-Pop
+71,Take On Me,a-ha,1985,Synth-Pop
+72,Livin' on a Prayer,Bon Jovi,1986,Rock
+73,Walk Like an Egyptian,The Bangles,1986,Pop
+74,Walk This Way,Run-DMC ft. Aerosmith,1986,Hip-Hop/Rock
+75,Sweet Child O' Mine,Guns N' Roses,1987,Rock
+76,Welcome to the Jungle,Guns N' Roses,1987,Rock
+77,Where the Streets Have No Name,U2,1987,Rock
+78,With or Without You,U2,1987,Rock
+79,Fight the Power,Public Enemy,1989,Hip-Hop
+80,Like a Prayer,Madonna,1989,Pop
+81,Nothing Compares 2 U,Sinéad O'Connor,1990,Pop
+82,U Can't Touch This,MC Hammer,1990,Hip-Hop
+83,Vogue,Madonna,1990,Pop
+84,Losing My Religion,R.E.M.,1991,Alternative
+85,Smells Like Teen Spirit,Nirvana,1991,Grunge
+86,Under the Bridge,Red Hot Chili Peppers,1991,Alternative
+87,Baby Got Back,Sir Mix-a-Lot,1992,Hip-Hop
+88,Creep,Radiohead,1992,Alternative
+89,I Will Always Love You,Whitney Houston,1992,Pop
+90,Jump Around,House of Pain,1992,Hip-Hop
+91,Nuthin' but a 'G' Thang,Dr. Dre ft. Snoop Dogg,1992,Hip-Hop
+92,Zombie,The Cranberries,1994,Alternative
+93,California Love,2Pac ft. Dr. Dre,1995,Hip-Hop
+94,Gangsta's Paradise,Coolio ft. L.V.,1995,Hip-Hop
+95,Wonderwall,Oasis,1995,Britpop
+96,Killing Me Softly,Fugees,1996,R&B/Hip-Hop
+97,Wannabe,Spice Girls,1996,Pop
+98,Bittersweet Symphony,The Verve,1997,Britpop
+99,Karma Police,Radiohead,1997,Alternative
+100,Mo Money Mo Problems,The Notorious B.I.G.,1997,Hip-Hop
+101,...Baby One More Time,Britney Spears,1998,Pop
+102,Doo Wop (That Thing),Lauryn Hill,1998,R&B/Hip-Hop
+103,Iris,Goo Goo Dolls,1998,Rock
+104,Livin' la Vida Loca,Ricky Martin,1999,Latin Pop
+105,No Scrubs,TLC,1999,R&B
+106,Ms. Jackson,OutKast,2000,Hip-Hop
+107,Say My Name,Destiny's Child,2000,R&B
+108,Stan,Eminem ft. Dido,2000,Hip-Hop
+109,Fallin',Alicia Keys,2001,R&B
+110,Get Ur Freak On,Missy Elliott,2001,Hip-Hop
+111,Clocks,Coldplay,2002,Alternative
+112,Lose Yourself,Eminem,2002,Hip-Hop
+113,Crazy in Love,Beyoncé ft. Jay-Z,2003,R&B/Pop
+114,Hey Ya!,OutKast,2003,Pop/Funk
+115,In Da Club,50 Cent,2003,Hip-Hop
+116,Where Is the Love?,Black Eyed Peas,2003,Hip-Hop/Pop
+117,Mr. Brightside,The Killers,2004,Alternative
+118,Since U Been Gone,Kelly Clarkson,2004,Pop Rock
+119,Toxic,Britney Spears,2004,Pop
+120,Yeah!,Usher ft. Lil Jon & Ludacris,2004,R&B
+121,Gold Digger,Kanye West ft. Jamie Foxx,2005,Hip-Hop
+122,Chasing Cars,Snow Patrol,2006,Alternative
+123,Crazy,Gnarls Barkley,2006,Soul/Alternative
+124,Hips Don't Lie,Shakira ft. Wyclef Jean,2006,Latin Pop
+125,Rehab,Amy Winehouse,2006,Soul
+126,Paper Planes,M.I.A.,2007,Alternative/Hip-Hop
+127,Stronger,Kanye West,2007,Hip-Hop
+128,Umbrella,Rihanna ft. Jay-Z,2007,Pop
+129,Love Story,Taylor Swift,2008,Country/Pop
+130,Poker Face,Lady Gaga,2008,Pop
+131,Single Ladies (Put a Ring on It),Beyoncé,2008,R&B/Pop
+132,Viva la Vida,Coldplay,2008,Alternative
+133,Bad Romance,Lady Gaga,2009,Pop
+134,Empire State of Mind,Jay-Z ft. Alicia Keys,2009,Hip-Hop
+135,Run This Town,Jay-Z ft. Rihanna & Kanye,2009,Hip-Hop
+136,Tik Tok,Kesha,2009,Pop
+137,Use Somebody,Kings of Leon,2009,Rock
+138,Firework,Katy Perry,2010,Pop
+139,Rolling in the Deep,Adele,2010,Pop/Soul
+140,Born This Way,Lady Gaga,2011,Pop
+141,Pumped Up Kicks,Foster the People,2011,Indie Pop
+142,Somebody That I Used to Know,Gotye ft. Kimbra,2011,Alternative
+143,Someone Like You,Adele,2011,Pop
+144,We Found Love,Rihanna ft. Calvin Harris,2011,EDM/Pop
+145,We Are Young,fun. ft. Janelle Monáe,2012,Pop
+146,Get Lucky,Daft Punk ft. Pharrell,2013,Disco/Funk
+147,Happy,Pharrell Williams,2013,Pop
+148,Royals,Lorde,2013,Alternative
+149,Blank Space,Taylor Swift,2014,Pop
+150,Shake It Off,Taylor Swift,2014,Pop
+151,Thinking Out Loud,Ed Sheeran,2014,Pop
+152,Uptown Funk,Mark Ronson ft. Bruno Mars,2014,Funk/Pop
+153,Hello,Adele,2015,Pop
+154,Hotline Bling,Drake,2015,R&B/Hip-Hop
+155,Closer,The Chainsmokers ft. Halsey,2016,EDM/Pop
+156,Formation,Beyoncé,2016,R&B/Hip-Hop
+157,Redbone,Childish Gambino,2016,Funk/Soul
+158,Starboy,The Weeknd ft. Daft Punk,2016,R&B/Pop
+159,Despacito,Luis Fonsi ft. Daddy Yankee,2017,Latin Pop
+160,HUMBLE.,Kendrick Lamar,2017,Hip-Hop
+161,Havana,Camila Cabello ft. Young Thug,2017,Latin Pop
+162,Rockstar,Post Malone ft. 21 Savage,2017,Hip-Hop
+163,Shape of You,Ed Sheeran,2017,Pop
+164,Bohemian Rhapsody (re-chart),Queen,2018,Rock
+165,God's Plan,Drake,2018,Hip-Hop
+166,Shallow,Lady Gaga & Bradley Cooper,2018,Pop
+167,Sicko Mode,Travis Scott ft. Drake,2018,Hip-Hop
+168,"Thank U, Next",Ariana Grande,2018,Pop
+169,This Is America,Childish Gambino,2018,Hip-Hop
+170,Bad Guy,Billie Eilish,2019,Pop
+171,Old Town Road,Lil Nas X ft. Billy Ray Cyrus,2019,Country/Hip-Hop
+172,Truth Hurts,Lizzo,2019,Pop/Hip-Hop
+173,Blinding Lights,The Weeknd,2020,Synth-Pop
+174,Levitating,Dua Lipa,2020,Disco/Pop
+175,Savage Love,Jawsh 685 & Jason Derulo,2020,Pop
+176,WAP,Cardi B ft. Megan Thee Stallion,2020,Hip-Hop
+177,Watermelon Sugar,Harry Styles,2020,Pop
+178,Easy on Me,Adele,2021,Pop
+179,Industry Baby,Lil Nas X & Jack Harlow,2021,Hip-Hop
+180,Montero (Call Me By Your Name),Lil Nas X,2021,Hip-Hop/Pop
+181,Peaches,Justin Bieber ft. Daniel Caesar & Giveon,2021,R&B
+182,Stay,The Kid LAROI & Justin Bieber,2021,Pop
+183,drivers license,Olivia Rodrigo,2021,Pop
+184,good 4 u,Olivia Rodrigo,2021,Pop Rock
+185,About Damn Time,Lizzo,2022,Pop/Funk
+186,Anti-Hero,Taylor Swift,2022,Pop
+187,As It Was,Harry Styles,2022,Pop
+188,Kill Bill,SZA,2022,R&B
+189,Unholy,Sam Smith & Kim Petras,2022,Pop
+190,Cruel Summer,Taylor Swift,2023,Pop
+191,Flowers,Miley Cyrus,2023,Pop
+192,Last Night,Morgan Wallen,2023,Country
+193,Paint the Town Red,Doja Cat,2023,Hip-Hop
+194,Vampire,Olivia Rodrigo,2023,Pop
+195,A Bar Song (Tipsy),Shaboozey,2024,Country
+196,APT.,ROSÉ & Bruno Mars,2024,Pop
+197,Beautiful Things,Benson Boone,2024,Pop
+198,Birds of a Feather,Billie Eilish,2024,Pop
+199,Die With a Smile,Lady Gaga & Bruno Mars,2024,Pop
+200,Espresso,Sabrina Carpenter,2024,Pop
+201,"Good Luck, Babe!",Chappell Roan,2024,Pop
+202,Not Like Us,Kendrick Lamar,2024,Hip-Hop

@@ -1,0 +1,142 @@
+﻿#,Invention,Year,Inventor / Creator,Field
+1,Printing Press,1440,Johannes Gutenberg,Communication
+2,Telescope,1608,Hans Lippershey,Optics
+3,Microscope,1620,Cornelis Drebbel,Science
+5,Lightning Rod,1752,Benjamin Franklin,Electrical
+8,Cotton Gin,1794,Eli Whitney,Agriculture
+9,Smallpox Vaccine,1796,Edward Jenner,Medicine
+10,Battery (Voltaic Pile),1800,Alessandro Volta,Electrical
+11,Steam Locomotive,1804,Richard Trevithick,Transportation
+12,Stethoscope,1816,René Laennec,Medicine
+13,Telegraph,1837,Samuel Morse,Communication
+14,Photography (Daguerreotype),1839,Louis Daguerre,Photography
+15,Anesthesia (Ether),1846,William Morton,Medicine
+16,Sewing Machine,1846,Elias Howe,Manufacturing
+17,Elevator (Safety),1852,Elisha Otis,Engineering
+19,Internal Combustion Engine,1860,Étienne Lenoir,Engineering
+20,Pasteurization,1864,Louis Pasteur,Medicine
+21,Dynamite,1867,Alfred Nobel,Chemistry
+22,Typewriter,1868,Christopher Sholes,Communication
+23,Telephone,1876,Alexander Graham Bell,Communication
+24,Phonograph,1877,Thomas Edison,Audio
+25,Light Bulb (practical),1879,Thomas Edison,Electrical
+26,Automobile (gasoline),1886,Karl Benz,Transportation
+27,Contact Lens,1887,Adolf Fick,Medicine
+28,AC Electrical System,1888,Nikola Tesla,Electrical
+29,Motion Pictures (Cinématographe),1895,Lumière Brothers,Entertainment
+30,Radio (wireless telegraphy),1895,Guglielmo Marconi,Communication
+31,X-Ray,1895,Wilhelm Röntgen,Medicine
+32,Diesel Engine,1897,Rudolf Diesel,Engineering
+33,Aspirin,1899,Felix Hoffmann / Bayer,Medicine
+34,Air Conditioning,1902,Willis Carrier,Engineering
+35,Airplane,1903,Wright Brothers,Transportation
+38,Tank (military),1916,British Military,Military
+39,Sonar,1917,Paul Langevin,Navigation
+40,Band-Aid,1920,Earle Dickson,Medicine
+41,Insulin (medical use),1922,Frederick Banting,Medicine
+42,Television (mechanical),1926,John Logie Baird,Communication
+43,Penicillin,1928,Alexander Fleming,Medicine
+44,Jet Engine,1930,Frank Whittle,Aviation
+45,Nylon,1935,Wallace Carothers / DuPont,Materials
+46,Radar,1935,Robert Watson-Watt,Military/Navigation
+47,Ballpoint Pen,1938,László Bíró,Writing
+49,Helicopter (practical),1939,Igor Sikorsky,Aviation
+50,Nuclear Reactor,1942,Enrico Fermi,Energy
+51,Atomic Bomb,1945,J. Robert Oppenheimer et al.,Military
+52,Microwave Oven,1945,Percy Spencer,Consumer
+53,ENIAC (electronic computer),1946,Eckert & Mauchly,Computing
+54,Transistor,1947,"Bardeen, Brattain & Shockley",Electronics
+55,Polaroid Camera,1948,Edwin Land,Photography
+56,Velcro,1948,George de Mestral,Materials
+57,Credit Card,1950,Frank McNamara,Finance
+58,Solar Cell (practical),1954,Bell Labs,Energy
+59,Polio Vaccine,1955,Jonas Salk,Medicine
+60,Hard Disk Drive,1956,IBM,Computing
+61,Satellite (Sputnik),1957,Soviet Space Program,Space
+62,Laser,1960,Theodore Maiman,Physics
+63,Communications Satellite (Telstar),1962,Bell Labs / NASA,Communication
+64,Compact Cassette,1963,Philips,Audio
+65,Computer Mouse,1964,Douglas Engelbart,Computing
+66,Kevlar,1965,Stephanie Kwolek,Materials
+67,ARPANET (precursor to Internet),1969,DARPA,Computing
+68,CT Scanner,1971,Godfrey Hounsfield,Medicine
+69,Email,1971,Ray Tomlinson,Communication
+70,MRI (concept demonstrated),1971,Raymond Damadian,Medicine
+71,Microprocessor,1971,Intel (Ted Hoff),Computing
+72,Pong (video game),1972,Atari / Nolan Bushnell,Entertainment
+73,Ethernet,1973,Bob Metcalfe / Xerox,Computing
+74,Mobile Phone (handheld),1973,Martin Cooper / Motorola,Communication
+75,Personal Computer (Altair 8800),1975,Ed Roberts / MITS,Computing
+76,VHS,1976,JVC,Entertainment
+77,Apple II,1977,Steve Wozniak & Steve Jobs,Computing
+78,IVF (first test-tube baby),1978,Robert Edwards & Patrick Steptoe,Medicine
+79,Walkman,1979,Sony / Akio Morita,Consumer
+80,Hepatitis B Vaccine,1981,Maurice Hilleman,Medicine
+81,IBM PC,1981,IBM,Computing
+82,Space Shuttle,1981,NASA,Space
+83,Compact Disc (CD),1982,Philips & Sony,Audio
+84,TCP/IP (Internet Protocol),1983,Vint Cerf & Bob Kahn,Computing
+85,DNA Fingerprinting,1984,Alec Jeffreys,Forensics
+86,Macintosh Computer,1984,Apple / Steve Jobs,Computing
+87,Lithium-Ion Battery,1985,Akira Yoshino,Energy
+88,Windows Operating System,1985,Microsoft / Bill Gates,Computing
+89,Prozac (SSRI antidepressant),1987,Eli Lilly,Medicine
+90,World Wide Web,1989,Tim Berners-Lee,Computing
+91,Hubble Space Telescope,1990,NASA / ESA,Space
+92,CRISPR (discovery),1993,Francisco Mojica,Genetics
+93,GPS (civilian use),1993,US Department of Defense,Navigation
+94,Mosaic Web Browser,1993,Marc Andreessen,Computing
+95,Bluetooth,1994,Ericsson,Communication
+96,DVD,1995,"Philips, Sony, Toshiba",Entertainment
+97,Java Programming Language,1995,James Gosling / Sun,Computing
+98,Google Search Engine,1998,Larry Page & Sergey Brin,Computing
+99,USB Flash Drive,2000,M-Systems / IBM,Computing
+100,Wikipedia,2001,Jimmy Wales & Larry Sanger,Information
+101,iPod,2001,Apple / Steve Jobs,Consumer
+102,Human Genome Project (completed),2003,International Consortium,Genetics
+103,Facebook,2004,Mark Zuckerberg,Social Media
+104,YouTube,2005,"Chad Hurley, Steve Chen, Jawed Karim",Social Media
+105,Twitter,2006,Jack Dorsey et al.,Social Media
+106,Kindle E-Reader,2007,Amazon / Jeff Bezos,Consumer
+107,Netflix Streaming,2007,Netflix / Reed Hastings,Entertainment
+108,iPhone,2007,Apple / Steve Jobs,Consumer
+109,Airbnb,2008,"Brian Chesky, Joe Gebbia, Nathan Blecharczyk",Travel
+110,Android OS,2008,Google,Computing
+111,Spotify (music streaming),2008,Daniel Ek & Martin Lorentzon,Entertainment
+112,3D Printer (consumer),2009,MakerBot / Bre Pettis,Manufacturing
+113,Bitcoin,2009,Satoshi Nakamoto,Finance
+114,Uber,2009,Travis Kalanick & Garrett Camp,Transportation
+115,WhatsApp,2009,Jan Koum & Brian Acton,Communication
+116,Instagram,2010,Kevin Systrom & Mike Krieger,Social Media
+117,iPad,2010,Apple / Steve Jobs,Consumer
+118,Watson AI (Jeopardy win),2011,IBM,Artificial Intelligence
+119,CRISPR Gene Editing (tool),2012,Doudna & Charpentier,Genetics
+120,Oculus Rift (VR headset),2012,Palmer Luckey,Consumer
+121,Tesla Model S,2012,Tesla / Elon Musk,Transportation
+122,Docker (containerization),2013,Solomon Hykes,Computing
+123,Drone (consumer DJI Phantom),2013,DJI / Frank Wang,Consumer
+124,Slack,2013,Stewart Butterfield,Communication
+125,Zoom Video Conferencing,2013,Eric Yuan,Communication
+126,Amazon Echo / Alexa,2014,Amazon,Consumer/AI
+127,Kubernetes,2014,Google,Computing
+128,Blockchain / Ethereum,2015,Vitalik Buterin,Computing/Finance
+129,SpaceX Falcon 9 (reusable rocket),2015,SpaceX / Elon Musk,Space
+130,AirPods,2016,Apple,Consumer
+131,AlphaGo (AI beats Go champion),2016,DeepMind / Google,Artificial Intelligence
+132,TikTok,2016,ByteDance / Zhang Yiming,Social Media
+133,CAR-T Cell Therapy (FDA approved),2017,Novartis / Kite Pharma,Medicine
+134,GLP-1 Receptor Agonists (Ozempic era),2017,Novo Nordisk,Medicine
+135,Starlink Satellite Internet,2019,SpaceX / Elon Musk,Communication
+136,COVID-19 mRNA Vaccine,2020,BioNTech/Pfizer & Moderna,Medicine
+137,GitHub Copilot,2021,GitHub / OpenAI,Computing/AI
+138,James Webb Space Telescope,2021,NASA / ESA / CSA,Space
+139,Quantum Computing (IBM Eagle),2021,IBM,Computing
+140,ChatGPT,2022,OpenAI / Sam Altman,Artificial Intelligence
+141,Nuclear Fusion Ignition (NIF),2022,Lawrence Livermore National Lab,Energy
+142,Claude AI,2023,Anthropic / Dario Amodei,Artificial Intelligence
+143,GPT-4,2023,OpenAI,Artificial Intelligence
+144,Stable Video Diffusion,2023,Stability AI,Artificial Intelligence
+145,Apple Vision Pro,2024,Apple,Consumer
+146,Neuralink (first human implant),2024,Neuralink / Elon Musk,Medicine/AI
+147,Sora (AI video generation),2024,OpenAI,Artificial Intelligence
+148,Waymo Robotaxi (public service),2024,Waymo / Alphabet,Transportation
