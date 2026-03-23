@@ -1,11 +1,209 @@
-name,release_date
-The Godfather,1972-03-24
-Star Wars,1977-05-25
-Jurassic Park,1993-06-11
-Titanic,1997-12-19
-The Matrix,1999-03-31
-Avatar,2009-12-18
-The Avengers,2012-05-04
-Inception,2010-07-16
-The Dark Knight,2008-07-18
-Forrest Gump,1994-07-06
+﻿#,Title,Year,Genre,Director
+1,The Birth of a Nation,1915,Drama,D.W. Griffith
+2,Nosferatu,1922,Horror,F.W. Murnau
+3,The Gold Rush,1925,Comedy,Charlie Chaplin
+4,Metropolis,1927,Sci-Fi,Fritz Lang
+5,All Quiet on the Western Front,1930,War,Lewis Milestone
+6,Frankenstein,1931,Horror,James Whale
+7,King Kong,1933,Adventure,Merian C. Cooper
+8,It Happened One Night,1934,Comedy,Frank Capra
+9,Modern Times,1936,Comedy,Charlie Chaplin
+10,Snow White and the Seven Dwarfs,1937,Animation,David Hand
+11,Gone with the Wind,1939,Drama,Victor Fleming
+12,The Wizard of Oz,1939,Fantasy,Victor Fleming
+13,Citizen Kane,1941,Drama,Orson Welles
+14,Casablanca,1942,Romance,Michael Curtiz
+15,It's a Wonderful Life,1946,Drama,Frank Capra
+16,Rashomon,1950,Drama,Akira Kurosawa
+17,Sunset Boulevard,1950,Drama,Billy Wilder
+18,Singin' in the Rain,1952,Musical,Stanley Donen
+19,Rear Window,1954,Thriller,Alfred Hitchcock
+20,Seven Samurai,1954,Action,Akira Kurosawa
+21,12 Angry Men,1957,Drama,Sidney Lumet
+22,The Bridge on the River Kwai,1957,War,David Lean
+23,Vertigo,1958,Thriller,Alfred Hitchcock
+24,Ben-Hur,1959,Epic,William Wyler
+25,Some Like It Hot,1959,Comedy,Billy Wilder
+26,Psycho,1960,Horror,Alfred Hitchcock
+27,Lawrence of Arabia,1962,Epic,David Lean
+28,To Kill a Mockingbird,1962,Drama,Robert Mulligan
+29,Dr. Strangelove,1964,Comedy,Stanley Kubrick
+30,The Sound of Music,1965,Musical,Robert Wise
+31,"The Good, the Bad and the Ugly",1966,Western,Sergio Leone
+32,2001: A Space Odyssey,1968,Sci-Fi,Stanley Kubrick
+33,Butch Cassidy and the Sundance Kid,1969,Western,George Roy Hill
+34,A Clockwork Orange,1971,Sci-Fi,Stanley Kubrick
+35,The Godfather,1972,Crime,Francis Ford Coppola
+36,The Exorcist,1973,Horror,William Friedkin
+37,Chinatown,1974,Thriller,Roman Polanski
+38,The Godfather Part II,1974,Crime,Francis Ford Coppola
+39,Jaws,1975,Thriller,Steven Spielberg
+40,One Flew Over the Cuckoo's Nest,1975,Drama,Miloš Forman
+41,Rocky,1976,Drama,John G. Avildsen
+42,Taxi Driver,1976,Drama,Martin Scorsese
+43,Annie Hall,1977,Comedy,Woody Allen
+44,Close Encounters of the Third Kind,1977,Sci-Fi,Steven Spielberg
+45,Star Wars,1977,Sci-Fi,George Lucas
+46,Grease,1978,Musical,Randal Kleiser
+47,Superman,1978,Action,Richard Donner
+48,Alien,1979,Sci-Fi,Ridley Scott
+49,Apocalypse Now,1979,War,Francis Ford Coppola
+50,Raging Bull,1980,Drama,Martin Scorsese
+51,The Empire Strikes Back,1980,Sci-Fi,Irvin Kershner
+52,The Shining,1980,Horror,Stanley Kubrick
+53,Raiders of the Lost Ark,1981,Adventure,Steven Spielberg
+54,Blade Runner,1982,Sci-Fi,Ridley Scott
+55,E.T. the Extra-Terrestrial,1982,Sci-Fi,Steven Spielberg
+56,Scarface,1983,Crime,Brian De Palma
+57,Amadeus,1984,Drama,Miloš Forman
+58,Ghostbusters,1984,Comedy,Ivan Reitman
+59,The Terminator,1984,Sci-Fi,James Cameron
+60,Back to the Future,1985,Sci-Fi,Robert Zemeckis
+61,The Breakfast Club,1985,Drama,John Hughes
+62,Ferris Bueller's Day Off,1986,Comedy,John Hughes
+63,Platoon,1986,War,Oliver Stone
+64,Top Gun,1986,Action,Tony Scott
+65,Full Metal Jacket,1987,War,Stanley Kubrick
+66,The Princess Bride,1987,Fantasy,Rob Reiner
+67,Die Hard,1988,Action,John McTiernan
+68,Rain Man,1988,Drama,Barry Levinson
+69,Batman,1989,Action,Tim Burton
+70,Dead Poets Society,1989,Drama,Peter Weir
+71,Indiana Jones and the Last Crusade,1989,Adventure,Steven Spielberg
+72,Edward Scissorhands,1990,Fantasy,Tim Burton
+73,Goodfellas,1990,Crime,Martin Scorsese
+74,Home Alone,1990,Comedy,Chris Columbus
+75,Pretty Woman,1990,Romance,Garry Marshall
+76,Beauty and the Beast,1991,Animation,Gary Trousdale
+77,Terminator 2: Judgment Day,1991,Sci-Fi,James Cameron
+78,The Silence of the Lambs,1991,Thriller,Jonathan Demme
+79,Aladdin,1992,Animation,Ron Clements
+80,Reservoir Dogs,1992,Crime,Quentin Tarantino
+81,Unforgiven,1992,Western,Clint Eastwood
+82,Groundhog Day,1993,Comedy,Harold Ramis
+83,Jurassic Park,1993,Sci-Fi,Steven Spielberg
+84,Schindler's List,1993,Drama,Steven Spielberg
+85,Forrest Gump,1994,Drama,Robert Zemeckis
+86,Pulp Fiction,1994,Crime,Quentin Tarantino
+87,The Lion King,1994,Animation,Roger Allers
+88,The Shawshank Redemption,1994,Drama,Frank Darabont
+89,Braveheart,1995,Epic,Mel Gibson
+90,Heat,1995,Crime,Michael Mann
+91,Se7en,1995,Thriller,David Fincher
+92,Toy Story,1995,Animation,John Lasseter
+93,Fargo,1996,Crime,Joel Coen
+94,Independence Day,1996,Sci-Fi,Roland Emmerich
+95,Trainspotting,1996,Drama,Danny Boyle
+96,Good Will Hunting,1997,Drama,Gus Van Sant
+97,L.A. Confidential,1997,Crime,Curtis Hanson
+98,Titanic,1997,Romance,James Cameron
+99,Saving Private Ryan,1998,War,Steven Spielberg
+100,The Big Lebowski,1998,Comedy,Joel Coen
+101,The Truman Show,1998,Drama,Peter Weir
+102,American Beauty,1999,Drama,Sam Mendes
+103,Fight Club,1999,Drama,David Fincher
+104,The Green Mile,1999,Drama,Frank Darabont
+105,The Matrix,1999,Sci-Fi,The Wachowskis
+106,The Sixth Sense,1999,Thriller,M. Night Shyamalan
+107,Cast Away,2000,Drama,Robert Zemeckis
+108,"Crouching Tiger, Hidden Dragon",2000,Action,Ang Lee
+109,Gladiator,2000,Epic,Ridley Scott
+110,Memento,2000,Thriller,Christopher Nolan
+111,A Beautiful Mind,2001,Drama,Ron Howard
+112,Amélie,2001,Comedy,Jean-Pierre Jeunet
+113,Shrek,2001,Animation,Andrew Adamson
+114,Spirited Away,2001,Animation,Hayao Miyazaki
+115,The Lord of the Rings: The Fellowship of the Ring,2001,Fantasy,Peter Jackson
+116,Chicago,2002,Musical,Rob Marshall
+117,City of God,2002,Crime,Fernando Meirelles
+118,The Lord of the Rings: The Two Towers,2002,Fantasy,Peter Jackson
+119,Finding Nemo,2003,Animation,Andrew Stanton
+120,Kill Bill: Volume 1,2003,Action,Quentin Tarantino
+121,Lost in Translation,2003,Drama,Sofia Coppola
+122,The Lord of the Rings: The Return of the King,2003,Fantasy,Peter Jackson
+123,Eternal Sunshine of the Spotless Mind,2004,Romance,Michel Gondry
+124,Million Dollar Baby,2004,Drama,Clint Eastwood
+125,The Incredibles,2004,Animation,Brad Bird
+126,Batman Begins,2005,Action,Christopher Nolan
+127,Brokeback Mountain,2005,Drama,Ang Lee
+128,Casino Royale,2006,Action,Martin Campbell
+129,Little Miss Sunshine,2006,Comedy,Jonathan Dayton
+130,Pan's Labyrinth,2006,Fantasy,Guillermo del Toro
+131,The Departed,2006,Crime,Martin Scorsese
+132,No Country for Old Men,2007,Thriller,Joel & Ethan Coen
+133,Ratatouille,2007,Animation,Brad Bird
+134,There Will Be Blood,2007,Drama,Paul Thomas Anderson
+135,Iron Man,2008,Action,Jon Favreau
+136,Slumdog Millionaire,2008,Drama,Danny Boyle
+137,The Dark Knight,2008,Action,Christopher Nolan
+138,WALL-E,2008,Animation,Andrew Stanton
+139,Avatar,2009,Sci-Fi,James Cameron
+140,Inglourious Basterds,2009,War,Quentin Tarantino
+141,The Hurt Locker,2009,War,Kathryn Bigelow
+142,Up,2009,Animation,Pete Docter
+143,Black Swan,2010,Thriller,Darren Aronofsky
+144,Inception,2010,Sci-Fi,Christopher Nolan
+145,The King's Speech,2010,Drama,Tom Hooper
+146,The Social Network,2010,Drama,David Fincher
+147,Toy Story 3,2010,Animation,Lee Unkrich
+148,Drive,2011,Thriller,Nicolas Winding Refn
+149,Hugo,2011,Adventure,Martin Scorsese
+150,The Artist,2011,Comedy,Michel Hazanavicius
+151,Django Unchained,2012,Western,Quentin Tarantino
+152,Life of Pi,2012,Adventure,Ang Lee
+153,The Avengers,2012,Action,Joss Whedon
+154,12 Years a Slave,2013,Drama,Steve McQueen
+155,Frozen,2013,Animation,Chris Buck
+156,Gravity,2013,Sci-Fi,Alfonso Cuarón
+157,Her,2013,Romance,Spike Jonze
+158,The Wolf of Wall Street,2013,Crime,Martin Scorsese
+159,Birdman,2014,Comedy,Alejandro G. Iñárritu
+160,Boyhood,2014,Drama,Richard Linklater
+161,Interstellar,2014,Sci-Fi,Christopher Nolan
+162,The Grand Budapest Hotel,2014,Comedy,Wes Anderson
+163,Whiplash,2014,Drama,Damien Chazelle
+164,Inside Out,2015,Animation,Pete Docter
+165,Mad Max: Fury Road,2015,Action,George Miller
+166,Spotlight,2015,Drama,Tom McCarthy
+167,The Martian,2015,Sci-Fi,Ridley Scott
+168,The Revenant,2015,Adventure,Alejandro G. Iñárritu
+169,Arrival,2016,Sci-Fi,Denis Villeneuve
+170,La La Land,2016,Musical,Damien Chazelle
+171,Moonlight,2016,Drama,Barry Jenkins
+172,Zootopia,2016,Animation,Byron Howard
+173,Coco,2017,Animation,Lee Unkrich
+174,Dunkirk,2017,War,Christopher Nolan
+175,Get Out,2017,Horror,Jordan Peele
+176,The Shape of Water,2017,Fantasy,Guillermo del Toro
+177,"Three Billboards Outside Ebbing, Missouri",2017,Drama,Martin McDonagh
+178,A Star Is Born,2018,Drama,Bradley Cooper
+179,Avengers: Infinity War,2018,Action,Anthony & Joe Russo
+180,Black Panther,2018,Action,Ryan Coogler
+181,Bohemian Rhapsody,2018,Drama,Bryan Singer
+182,Roma,2018,Drama,Alfonso Cuarón
+183,Spider-Man: Into the Spider-Verse,2018,Animation,Peter Ramsey
+184,1917,2019,War,Sam Mendes
+185,Avengers: Endgame,2019,Action,Anthony & Joe Russo
+186,Joker,2019,Drama,Todd Phillips
+187,Once Upon a Time in Hollywood,2019,Comedy,Quentin Tarantino
+188,Parasite,2019,Thriller,Bong Joon-ho
+189,Nomadland,2020,Drama,Chloé Zhao
+190,Soul,2020,Animation,Pete Docter
+191,Tenet,2020,Sci-Fi,Christopher Nolan
+192,Dune,2021,Sci-Fi,Denis Villeneuve
+193,No Time to Die,2021,Action,Cary Joji Fukunaga
+194,Spider-Man: No Way Home,2021,Action,Jon Watts
+195,The Power of the Dog,2021,Drama,Jane Campion
+196,Everything Everywhere All at Once,2022,Sci-Fi,Daniel Kwan & Daniel Scheinert
+197,The Batman,2022,Action,Matt Reeves
+198,Top Gun: Maverick,2022,Action,Joseph Kosinski
+199,Barbie,2023,Comedy,Greta Gerwig
+200,Killers of the Flower Moon,2023,Crime,Martin Scorsese
+201,Oppenheimer,2023,Drama,Christopher Nolan
+202,Poor Things,2023,Comedy,Yorgos Lanthimos
+203,Anora,2024,Drama,Sean Baker
+204,Conclave,2024,Thriller,Edward Berger
+205,Dune: Part Two,2024,Sci-Fi,Denis Villeneuve
+206,Inside Out 2,2024,Animation,Kelsey Mann
+207,The Brutalist,2024,Drama,Brady Corbet
+208,Wicked,2024,Musical,Jon M. Chu

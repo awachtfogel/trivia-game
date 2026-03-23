@@ -61,17 +61,16 @@ export const categories = [
     id: 'famous_movies',
     name: 'Famous Movies',
     dataKey: 'famous_movies',
-    prompt: 'Order these movies by release date (oldest to newest)',
-    sortKey: 'release_date',
-    displayField: 'name',
-    filterFunction: (data) => filterByDate(data, 'release_date', 4),
-    formatDisplay: (item) => item.name || item.Name || 'Unknown',
+    prompt: 'Order these movies by release year (oldest to newest)',
+    sortKey: 'Year',
+    displayField: 'Title',
+    filterFunction: (data) => filterByDate(data, 'Year', 4),
+    formatDisplay: (item) => item.Title || item.title || 'Unknown',
     formatExplanation: (items) => {
-      const movies = items.map(item => {
-        const year = new Date(item.release_date).getFullYear();
-        return `${item.name || item.Name} (${year})`;
-      }).join(', ');
-      return `Release dates from oldest to newest: ${movies}`;
+      const movies = items.map(item =>
+        `${item.Title || item.title} (${item.Year})`
+      ).join(', ');
+      return `Release years from oldest to newest: ${movies}`;
     },
     sortOrder: 'asc'
   },
