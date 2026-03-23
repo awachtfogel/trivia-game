@@ -7,35 +7,52 @@ import Papa from 'papaparse';
  */
 export async function loadCSV(filename) {
   try {
-    // Try to dynamically import the CSV file
-    const modules = import.meta.glob('../data/*.csv', { as: 'raw', eager: false });
-    const modulePath = `../data/${filename}`;
+    // Use fetch in development, import in production
+    const isDev = import.meta.env.DEV;
+    let csvText;
 
-    if (modules[modulePath]) {
-      const csvText = await modules[modulePath]();
-
-      return new Promise((resolve, reject) => {
-        Papa.parse(csvText, {
-          header: true,
-          skipEmptyLines: true,
-          dynamicTyping: true,
-          complete: (results) => {
-            if (results.errors.length > 0) {
-              console.error(`Errors parsing ${filename}:`, results.errors);
-            }
-            console.log(`Successfully loaded ${filename}: ${results.data.length} rows`);
-            resolve(results.data);
-          },
-          error: (error) => {
-            console.error(`Papa Parse error for ${filename}:`, error);
-            reject(error);
-          }
-        });
-      });
+    if (isDev) {
+      // Development: fetch from public/dev path
+      const response = await fetch(`/src/data/${filename}`);
+      if (!response.ok) {
+        throw new Error(`Failed to load ${filename}: ${response.statusText}`);
+      }
+      csvText = await response.text();
     } else {
-      console.error(`CSV module not found: ${filename}`);
-      return [];
+      // Production: use dynamic import
+      const modules = import.meta.glob('../data/*.csv', { query: '?raw', import: 'default' });
+      const modulePath = `../data/${filename}`;
+
+      if (modules[modulePath]) {
+        csvText = await modules[modulePath]();
+      } else {
+        throw new Error(`CSV module not found: ${filename}`);
+      }
     }
+
+    // Remove BOM if present
+    if (csvText.charCodeAt(0) === 0xFEFF) {
+      csvText = csvText.slice(1);
+    }
+
+    return new Promise((resolve, reject) => {
+      Papa.parse(csvText, {
+        header: true,
+        skipEmptyLines: true,
+        dynamicTyping: true,
+        complete: (results) => {
+          if (results.errors.length > 0) {
+            console.error(`Errors parsing ${filename}:`, results.errors);
+          }
+          console.log(`Successfully loaded ${filename}: ${results.data.length} rows`);
+          resolve(results.data);
+        },
+        error: (error) => {
+          console.error(`Papa Parse error for ${filename}:`, error);
+          reject(error);
+        }
+      });
+    });
   } catch (error) {
     console.error(`Error loading CSV ${filename}:`, error);
     return [];
