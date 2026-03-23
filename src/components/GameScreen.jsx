@@ -7,6 +7,7 @@ import {
   useSensor,
   useSensors,
   TouchSensor,
+  pointerWithin,
 } from '@dnd-kit/core';
 import {
   arrayMove,
@@ -15,7 +16,9 @@ import {
   verticalListSortingStrategy,
 } from '@dnd-kit/sortable';
 import SortableItem from './SortableItem';
+import StatsDisplay from './StatsDisplay';
 import { validateAnswer, getCorrectOrder } from '../utils/scoring';
+import { updateStats } from '../utils/statsManager';
 import './GameScreen.css';
 
 function GameScreen({ question, onRestart, gameState, setGameState }) {
@@ -31,8 +34,8 @@ function GameScreen({ question, onRestart, gameState, setGameState }) {
     }),
     useSensor(TouchSensor, {
       activationConstraint: {
-        delay: 100,
-        tolerance: 5,
+        delay: 50,        // Reduced from 100ms for faster response
+        tolerance: 3,     // Reduced from 5px for easier activation
       },
     }),
     useSensor(KeyboardSensor, {
@@ -58,6 +61,9 @@ function GameScreen({ question, onRestart, gameState, setGameState }) {
     setValidationResult(result);
     setIsSubmitted(true);
     setGameState('result');
+
+    // Update statistics
+    updateStats(question.categoryId, result.correct);
   };
 
   const handlePlayAgain = () => {
@@ -77,7 +83,7 @@ function GameScreen({ question, onRestart, gameState, setGameState }) {
         <div className="sortable-area">
           <DndContext
             sensors={sensors}
-            collisionDetection={closestCenter}
+            collisionDetection={pointerWithin}
             onDragEnd={handleDragEnd}
           >
             <SortableContext
@@ -141,6 +147,8 @@ function GameScreen({ question, onRestart, gameState, setGameState }) {
             <div className="explanation">
               <p>{question.explanation}</p>
             </div>
+
+            <StatsDisplay />
 
             <button className="play-again-button" onClick={handlePlayAgain}>
               Play Again

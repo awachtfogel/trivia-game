@@ -111,12 +111,35 @@ export const categories = [
 ];
 
 /**
- * Get a random category
+ * Get a random category with weighted selection
+ * Heights appear only 5% of the time, others 19% each
  * @returns {Object} Random category definition
  */
 export function getRandomCategory() {
-  const randomIndex = Math.floor(Math.random() * categories.length);
-  return categories[randomIndex];
+  // Define weights for each category (total = 100)
+  const weights = {
+    'celebrity_heights': 5,      // 5% chance
+    'celebrity_birthdays': 19,   // 19% chance
+    'famous_tv_shows': 19,       // 19% chance
+    'famous_movies': 19,         // 19% chance
+    'iconic_songs': 19,          // 19% chance
+    'major_inventions': 19       // 19% chance
+  };
+
+  // Generate random number between 0 and 100
+  let random = Math.random() * 100;
+
+  // Select category based on weights
+  for (const category of categories) {
+    const weight = weights[category.id];
+    if (random < weight) {
+      return category;
+    }
+    random -= weight;
+  }
+
+  // Fallback (should never reach here)
+  return categories[1]; // Return birthdays as safe fallback
 }
 
 /**
